@@ -4,7 +4,7 @@
 
 <h2 align="center">
   <a href="LICENSE">
-    <img src="https://github.com/SorcererChiragsingh/Project-Bean-Brew-Coffee-/blob/main/img/MIT%20License.png" alt="MIT License" />
+    <img src="https://github.com/SorcererChiragsingh/Project-Bookshelf-Emporium/blob/main/build/static/media/MIT%20License.png" alt="MIT License" />
   </a>
 </h2>
 
@@ -66,7 +66,7 @@
  - User Reviews and Ratings
  - Subscription Services
 
- 
+
 ## Report Issues
 - You can report issues on this project using Github issue.
 - You can read more about this from [Github Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
@@ -78,7 +78,7 @@
 
 ## Acknowledgements
 
-- I would like to extend my sincere gratitude to [YouAccel Training] [From UDEMY](https://www.udemy.com/course/web-development-masterclass-complete-certificate-course/?couponCode=SKILLS4SALEA#instructor-1) for their invaluable guidance and support throughout this project. Their expertise and encouragement have been instrumental in the successful completion of this work.
+- I would like to extend my sincere gratitude to [YouAccel Training] [From UDEMY](https://www.udemy.com/user/youaccel/) for their invaluable guidance and support throughout this project. Their expertise and encouragement have been instrumental in the successful completion of this work.
 - You can view the certificate of completion [here](https://github.com/SorcererChiragsingh/Project-Bean-Brew-Coffee-/blob/main/img/Completion%20Certificate.PNG).
 - Thank you once again for your mentorship and dedication!
 - A passion project by [Chirag](www.linkedin.com/in/chirag-singh-148993279)
